@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Clash",
+  "description": "A fun multiplayer web game where players battle using emojis. Players select emojis with different powers and attack opponents in real-time. This version features a solo mode against an AI opponent with AI-generated battle commentary.",
+  "requestFramePermissions": []
+}
